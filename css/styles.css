@@ -269,7 +269,7 @@ img {
 .social-list {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
   list-style: none;
   padding: 0;
   margin-top: 10px;
